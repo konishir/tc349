@@ -10,13 +10,20 @@ h1, h2, h3, p, ul, ol {
 	margin: 0;
 }
 	
-h1 {
+header {
 	padding: 20px 15px;
 	background:#00975C;
 	color: #fff;
 	text-shadow: 1px 2px 2px #424242;
 }
-	
+
+footer {
+	margin: .2% 1%;
+	font-size: small;
+	text-align: right;
+	font-variant: small-caps;
+}	
+
 h2 {
 	padding: 7px 50px;
 	background: #62D99C;
@@ -46,13 +53,13 @@ ol {
 
 .content {
 	background: #fff;
-	width: 620px;
+	width: 600px;
 	margin: 0 auto;
 }
 
 #navigation {
 	border-top: 5px solid #000000;
-	width: 620px;
+	width: 600px;
 	margin: 0 auto;
 	background:#00975C;
 	color: #fff;
